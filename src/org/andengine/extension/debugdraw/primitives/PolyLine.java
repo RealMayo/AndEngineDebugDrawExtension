@@ -1,10 +1,8 @@
 package org.andengine.extension.debugdraw.primitives;
 
 import org.andengine.engine.camera.Camera;
-import org.andengine.entity.primitive.DrawMode;
 import org.andengine.entity.primitive.Line;
 import org.andengine.entity.primitive.Mesh;
-import org.andengine.entity.primitive.vbo.HighPerformanceMeshVertexBufferObject;
 import org.andengine.opengl.util.GLState;
 import org.andengine.opengl.vbo.DrawType;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
